@@ -7,3 +7,4 @@
 ## Introduction 
 Huddle's website code repository contains the source code for the web application.
 
+I developed this project willing learning about react and styled components.
