@@ -2,7 +2,7 @@
 
 ### [Live Site](https://musical-daffodil-fbc0da.netlify.app)
 
-![Huddle Website](https://ibb.co/z8gyD8m)
+![Huddle Website](https://i.ibb.co/xmbpdm2/huddle-landing-page.png)
 
 ## Introduction 
 Huddle's website code repository contains the source code for the web application.
